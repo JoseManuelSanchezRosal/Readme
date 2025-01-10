@@ -1,7 +1,7 @@
 # Readme
 # Hola, soy José Manuel 👋
 
-Soy estudiante de **Ciclo Formativo de Grado Superior** en [Desarrollo de Aplicaciones Multiplataforma]. Estoy aprendiendo sobre desarrollo de software y me apasiona todo lo relacionado con la programación.
+Soy estudiante de **Ciclo Formativo de Grado Superior** en Desarrollo de Aplicaciones Multiplataforma. Estoy aprendiendo sobre desarrollo de software y me apasiona todo lo relacionado con la programación.
 
 ## ¿Qué hago?
 
